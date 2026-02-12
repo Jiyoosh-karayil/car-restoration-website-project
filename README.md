@@ -101,7 +101,7 @@ jk-garage/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jk-garage.git
+   git clone https://Jiyoosh-karayil/car-restoration-website-project.git
    ```
 
 2. **Navigate to the project directory**
@@ -219,14 +219,12 @@ This project is created for educational and portfolio purposes.
 
 - **Email:** jiyoosh@insatai.com
 - **LinkedIn:** [linkedin.com/in/jiyooshkarayil](https://linkedin.com/in/jiyooshkarayil)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Portfolio:** [insatai.com](https://insatai.com)
 
 **JK Garage (Fictional Business)**
 
 - **Location:** London, UK
 - **Email:** [Contact through website]
-- **Phone:** +44 73892934**
+- **Phone:** +44 7384059882**
 
 ## 🙏 Acknowledgments
 
