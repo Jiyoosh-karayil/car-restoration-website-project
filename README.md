@@ -89,40 +89,6 @@ jk-garage/
     ├── carpainting.jpg    # Paint work image
     └── tyre.jpg           # Tyre work image
 ```
-
-## 🚀 Installation
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- A code editor (VS Code, Sublime Text, etc.) - optional for editing
-
-### Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://Jiyoosh-karayil/car-restoration-website-project.git
-   ```
-
-2. **Navigate to the project directory**
-   ```bash
-   cd jk-garage
-   ```
-
-3. **Open in browser**
-   - Simply open `homepage.html` in your web browser
-   - Or use a local development server:
-   ```bash
-   # Using Python 3
-   python -m http.server 8000
-   
-   # Using Node.js (http-server)
-   npx http-server
-   ```
-
-4. **Access the website**
-   - Open your browser and navigate to `http://localhost:8000`
-
 ## 📖 Usage
 
 ### For Visitors:
